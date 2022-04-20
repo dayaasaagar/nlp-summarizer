@@ -1,8 +1,10 @@
 streamlit
 requests
-nltk
+nltk==3.7
 math
 indic-nlp-library
 heapq
 spacy
 textblob
+newspaper
+spacy==3.0.6
