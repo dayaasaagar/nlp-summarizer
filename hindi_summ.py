@@ -4,7 +4,7 @@ Created on Sun Apr 17 07:10:40 2022
 
 @author: dayaaasaagar
 """
-import nltk
+#import nltk
 from nltk import sent_tokenize, word_tokenize
 from nltk.corpus import stopwords
 from nltk.stem import PorterStemmer
