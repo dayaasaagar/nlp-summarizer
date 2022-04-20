@@ -12,8 +12,6 @@ from bert_summ import bert_sum
 #st.image(image, caption='123')
 #from bert_summ import bert_sum
 st.title('News text summarizer')
-
-choice = st.sidebar.selectbox("Select of your choice", options=option)
 link=st.text_input("enter the news article")
 if st.button("bert-Summarize"):
     bert_sum(link)
