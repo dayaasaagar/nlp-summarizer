@@ -5,7 +5,8 @@ Created on Sat Apr 16 10:41:50 2022
 @author: dayaaasaagar
 """
 import streamlit as st 
-#import nltk
+import nltk
+nltk.download('punkt')
 from nltk.corpus import stopwords
 sw=set(stopwords.words('english'))
 from string import punctuation
