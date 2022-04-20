@@ -6,4 +6,3 @@ indic-nlp-library
 heapq
 spacy
 textblob
-newspaper
