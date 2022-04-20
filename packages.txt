@@ -1,6 +1,6 @@
 streamlit
 requests
-nltk==3.7
+nltk
 math
 indic-nlp-library
 heapq
